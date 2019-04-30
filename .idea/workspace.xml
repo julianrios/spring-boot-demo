@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a146ce7f-84f6-490a-b224-da60ee26fd82" name="Default Changelist" comment="" />
+    <list default="true" id="a146ce7f-84f6-490a-b224-da60ee26fd82" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,7 +35,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/julianrios/hello/HelloController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
-              <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+              <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#189#190#0" expanded="true" />
@@ -46,7 +48,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/julianrios/topic/TopicController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="193">
-              <caret line="25" column="27" lean-forward="true" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+              <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#442#443#0" expanded="true" />
@@ -63,8 +65,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/julianrios/topic/TopicService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="10" column="62" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="62" />
+            <state relative-caret-position="59">
+              <caret line="10" column="62" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="62" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#484#485#0" expanded="true" />
@@ -110,6 +112,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -148,6 +153,7 @@
     <option name="width" value="1280" />
     <option name="height" value="800" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -210,7 +216,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555983485689" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556634360523" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/julianrios" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -261,27 +267,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555867584381</updated>
-      <workItem from="1555867589306" duration="4981000" />
+      <workItem from="1555867589306" duration="5320000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4981000" />
+    <option name="totallyTimeSpent" value="5320000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
       <window_info id="Capture Tool" />
       <window_info id="UI Designer" />
-      <window_info id="Favorites" sideWeight="0.5010482" side_tool="true" visible="true" weight="0.226979" />
+      <window_info id="Favorites" sideWeight="0.50617284" side_tool="true" visible="true" weight="0.226979" />
       <window_info id="Web" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989518" visible="true" weight="0.226979" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49382716" visible="true" weight="0.226979" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.7780822" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Messages" />
@@ -290,7 +295,7 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34657535" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34657535" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -333,7 +338,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/julianrios/hello/HelloController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#189#190#0" expanded="true" />
@@ -372,7 +377,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/julianrios/topic/TopicController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="193">
-          <caret line="25" column="27" lean-forward="true" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+          <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#442#443#0" expanded="true" />
@@ -387,8 +392,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/julianrios/topic/TopicService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="10" column="62" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="62" />
+        <state relative-caret-position="59">
+          <caret line="10" column="62" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="62" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#484#485#0" expanded="true" />
